@@ -43,7 +43,7 @@ IntelliSQL/
 **Clone the Repository:**
 
 Bash
-eg: git clone https://github.com/rajeevparisa/IntelliSQL-Intelligent-SQL-Querying-with-LLMs-Using-Gemini-Pro.git
+eg: git clone https://github.com/shabbe-sk/IntelliSQL-Intelligent-SQL-Querying-with-LLMs-Using-Gemini-Pro.git
 
 
 **Set up Environment:**
